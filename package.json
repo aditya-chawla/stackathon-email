@@ -1,6 +1,7 @@
 {
   "name": "competitor-email-api",
   "version": "1.0.0",
+  "type": "module",
   "description": "AI-powered competitor comparison email generator",
   "scripts": {
     "build": "echo 'Build complete'"
