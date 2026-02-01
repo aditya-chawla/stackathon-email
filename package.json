@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "AI-powered competitor comparison email generator",
   "scripts": {
-    "dev": "vercel dev",
-    "build": "echo 'Build complete'",
-    "start": "vercel dev"
+    "build": "echo 'Build complete'"
   },
   "dependencies": {
     "mongodb": "^6.3.0",
