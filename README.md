@@ -17,12 +17,7 @@ AI-powered API for generating personalized competitor comparison emails using Op
    OPENROUTER_API_KEY=your_key_here
    MONGODB_URI=your_mongodb_uri
    VOYAGE_API_KEY=your_voyage_key
-   ```
 
-3. **Run locally:**
-   ```bash
-   npm run dev
-   ```
 
 4. **Test the API:**
    ```bash
