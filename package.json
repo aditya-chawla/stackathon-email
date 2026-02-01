@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "type": "module",
   "description": "AI-powered competitor comparison email generator",
-  "scripts": {
-    "build": "echo 'Build complete'"
-  },
   "dependencies": {
     "mongodb": "^6.3.0",
     "openai": "^4.28.0"
